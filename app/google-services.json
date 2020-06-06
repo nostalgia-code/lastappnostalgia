@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "207092880853",
+    "firebase_url": "https://nostaliga-93be4.firebaseio.com",
+    "project_id": "nostaliga-93be4",
+    "storage_bucket": "nostaliga-93be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207092880853:android:af53f6fe845f6cf343195c",
+        "android_client_info": {
+          "package_name": "com.example.nostalgia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207092880853-hmtp6u902dv6rg5m3qv124mh8s47m4rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nostalgia",
+            "certificate_hash": "1663ab4a7388acc83a24360d6c90fe63e2cd9916"
+          }
+        },
+        {
+          "client_id": "207092880853-vsvs1j131en4rl05dj855r71vu06etn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nostalgia",
+            "certificate_hash": "e5b4c4b1de438abcf4c45bbc069ac3a64af0aed3"
+          }
+        },
+        {
+          "client_id": "207092880853-01gtmh249udoja6bbhhttnbnuvl70mqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEb-AXLH5d1X39SUd5BCIyCy2NLc7saE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207092880853-01gtmh249udoja6bbhhttnbnuvl70mqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
